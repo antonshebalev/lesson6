@@ -10,6 +10,10 @@ imgBig.onerror = function() {
   document.getElementById("imgBig").alt = "Error loading " + this.src; 
 };
 
+
+
+
+
 function f(Event) {
 
     var bigImg = document.getElementById("imgBig");
