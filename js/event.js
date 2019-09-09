@@ -13,7 +13,7 @@ imgBig.onerror = function() {
 
 
 
-
+//выбор картинки
 function f(Event) {
 
     var bigImg = document.getElementById("imgBig");
